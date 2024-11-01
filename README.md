@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdul Rehman and currently I am learning Mern.<br>Ask me about HTML, CSS, Bootstrap, JavaScript,Node.Js, C++ and Python.<br>I am currently learning JS and Python.<br>You can reach me: tahirabdulrehman46@gmail.com
+I'm Abdul Rehman and currently I am learning Web Development.<br>Ask me about HTML, CSS, Bootstrap, JavaScript, C++, Python and Flask.<br>I am currently learning Flask and planning to learn Django after.<br>You can reach me: tahirabdulrehman46@gmail.com
 
 
 ## 🌐 Socials:
