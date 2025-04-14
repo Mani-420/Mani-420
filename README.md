@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdul Rehman and currently I am learning Web Development.<br>Ask me about HTML, CSS, Bootstrap, JavaScript, C++, Python and NodeJS.<br>I am currently learning MERN Stack and practicing DSA in Python.<br>You can reach me: tahirabdulrehman46@gmail.com
+I'm Abdul Rehman, a Full Stack Web Developer with expertise in both frontend and backend development. Ask me about HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB, C++, and Python. I have completed the MERN Stack and build dynamic, responsive web applications. You can reach me at: tahirabdulrehman46@gmail.com
 
 
 ## 🌐 Socials:
