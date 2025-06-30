@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm Abdul Rehman, a Full Stack Web Developer with expertise in both frontend and backend development. Ask me about HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB, C++, and Python. I have completed the MERN Stack and build dynamic, responsive web applications. You can reach me at: tahirabdulrehman46@gmail.com
+Hi, I'm Abdul Rehman — a passionate Full Stack Web Developer with experience in building dynamic and responsive web applications using modern technologies.
+
+💻 Tech Stack:
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Other: C++, Python
+
+🔧 I specialize in the MERN Stack, and I'm expanding my skills into TypeScript and Next.js to build better, scalable web applications.
+
+📬 Feel free to connect or collaborate:
+📧 Email: tahirabdulrehman46@gmail.com
 
 
 ## 🌐 Socials:
